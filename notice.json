@@ -2,8 +2,24 @@
   "notices": [
     {
       "id": 1,
+      "pinned": true,
+      "date": "2026-01-01",
+      "title": "필독: 이용 약관 및 가이드 안내",
+      "url": "https://..."
+    },
+    {
+      "id": 10,
+      "pinned": false,
       "date": "2026-02-09",
-      "content": "공지사항 테스트입니다.<br><b>두 번째 줄</b>은 강조 처리합니다."
+      "title": "새로운 기능 업데이트 소식",
+      "url": "https://..."
+    },
+    {
+      "id": 2,
+      "pinned": false,
+      "date": "2026-02-05",
+      "title": "단순 버그 수정 안내",
+      "url": "https://..."
     }
   ]
 }
