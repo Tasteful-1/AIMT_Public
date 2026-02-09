@@ -2,31 +2,150 @@
   "notices": [
     {
       "id": 1,
-      "pinned": true,
-      "date": "2026-01-01",
-      "title": "필독: 이용 약관 및 가이드 안내",
-      "url": "https://..."
-    },
-    {
-      "id": 10,
       "pinned": false,
-      "date": "2026-02-09",
-      "title": "새로운 기능 업데이트 소식",
-      "url": "https://..."
-    },
-    {
-      "id": 11,
-      "pinned": false,
-      "date": "2026-02-09",
-      "title": "새로운 기능 업데이트 소식 (2)",
-      "url": "https://..."
+      "date": "2025-09-01",
+      "title": "[안내사항] AIMT PRO 1.7.0 / AIMT Trial 1.5.0 업데이트",
+      "url": "https://arca.live/b/aimt/146705688"
     },
     {
       "id": 2,
       "pinned": false,
-      "date": "2026-02-05",
-      "title": "단순 버그 수정 안내",
-      "url": "https://..."
+      "date": "2025-09-05",
+      "title": "[안내사항] AIMT PRO 1.7.1 업데이트",
+      "url": "https://arca.live/b/aimt/147107938"
+    },
+    {
+      "id": 3,
+      "pinned": false,
+      "date": "2026-09-09",
+      "title": "[안내사항] AIMT PRO 1.7.2 업데이트",
+      "url": "https://arca.live/b/aimt/147471459"
+    },
+    {
+      "id": 4,
+      "pinned": false,
+      "date": "2025-09-10",
+      "title": "[안내사항] AIMT PRO 1.7.2.1 핫픽스",
+      "url": "https://arca.live/b/aimt/147493292"
+    },
+    {
+      "id": 5,
+      "pinned": false,
+      "date": "2025-09-12",
+      "title": "[안내사항] AIMT PRO 1.7.3 업데이트",
+      "url": "https://arca.live/b/aimt/147719872"
+    },
+    {
+      "id": 6,
+      "pinned": false,
+      "date": "2025-09-14",
+      "title": "[안내사항] AIMT PRO 1.7.3.1 핫픽스",
+      "url": "https://arca.live/b/aimt/147858006"
+    },
+    {
+      "id": 7,
+      "pinned": false,
+      "date": "2025-10-03",
+      "title": "[안내사항] AIMT PRO 1.7.4 업데이트",
+      "url": "https://arca.live/b/aimt/149640979"
+    },
+    {
+      "id": 8,
+      "pinned": false,
+      "date": "2025-11-05",
+      "title": "[안내사항] AIMT PRO 1.8.0 업데이트",
+      "url": "https://arca.live/b/aimt/152812122"
+    },
+    {
+      "id": 9,
+      "pinned": false,
+      "date": "2025-11-07",
+      "title": "[안내사항] AIMT PRO 1.8.4 업데이트",
+      "url": "https://arca.live/b/aimt/152962539"
+    },
+    {
+      "id": 10,
+      "pinned": false,
+      "date": "2025-12-04",
+      "title": "[안내사항] AIMT PRO 1.9.0 업데이트",
+      "url": "https://arca.live/b/aimt/155770332"
+    },
+    {
+      "id": 11,
+      "pinned": false,
+      "date": "2025-12-05",
+      "title": "[안내사항] AIMT PRO 1.9.1 핫픽스",
+      "url": "https://arca.live/b/aimt/155871792"
+    },
+    {
+      "id": 12,
+      "pinned": false,
+      "date": "2025-12-08",
+      "title": "[안내사항] Gemini API 비율 제한 대폭 감축",
+      "url": "https://arca.live/b/aimt/156165270"
+    },
+    {
+      "id": 13,
+      "pinned": false,
+      "date": "2025-12-09",
+      "title": "[안내사항] AIMT PRO 1.9.2 업데이트",
+      "url": "https://arca.live/b/aimt/156276967"
+    },
+    {
+      "id": 14,
+      "pinned": false,
+      "date": "2025-12-10",
+      "title": "[안내사항] AIMT PRO 1.9.3 핫픽스",
+      "url": "https://arca.live/b/aimt/156376236"
+    },
+    {
+      "id": 15,
+      "pinned": false,
+      "date": "2025-01-10",
+      "title": "[안내사항] AIMT PRO 1.10.0 업데이트",
+      "url": "https://arca.live/b/aimt/159238359"
+    },
+    {
+      "id": 16,
+      "pinned": false,
+      "date": "2025-01-14",
+      "title": "[안내사항] AIMT PRO 1.10.1 업데이트",
+      "url": "https://arca.live/b/aimt/159581925"
+    },
+    {
+      "id": 17,
+      "pinned": false,
+      "date": "2025-01-15",
+      "title": "[안내사항] AIMT PRO 1.10.2 & 1.10.3 핫픽스",
+      "url": "https://arca.live/b/aimt/159606878"
+    },
+    {
+      "id": 18,
+      "pinned": false,
+      "date": "2025-01-17",
+      "title": "[안내사항] AIMT PRO 1.10.4 업데이트",
+      "url": "https://arca.live/b/aimt/159804761"
+    },
+    {
+      "id": 19,
+      "pinned": false,
+      "date": "2025-01-17",
+      "title": "[안내사항] AIMT Trial 1.6.0 업데이트",
+      "url": "https://arca.live/b/aimt/159813520"
+    },
+    {
+      "id": 20,
+      "pinned": false,
+      "date": "2025-01-19",
+      "title": "[안내사항] AIMT PRO 1.10.5 핫픽스",
+      "url": "https://arca.live/b/aimt/159980894"
+    },
+    {
+      "id": 21,
+      "pinned": false,
+      "date": "2025-02-05",
+      "title": "[안내사항] AIMT PRO 1.11.0 업데이트",
+      "url": "https://arca.live/b/aimt/161558710"
     }
   ]
 }
