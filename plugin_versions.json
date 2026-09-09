@@ -1,7 +1,5 @@
 {
   "schema": 1,
-  "revision": 2,
-  "base_url": "https://pub-03418ec99abe43e39962d5c747da282c.r2.dev",
   "plugins": {
     "clickteam-fusion": {
       "recommended_version": "1.0.1",
@@ -9,18 +7,12 @@
         "1.0.0": {
           "plugin_api": 1,
           "min_app_version": "1.17.1.0",
-          "tier": "Pro",
-          "engines": ["CTF"],
-          "required_paths": ["AIMTCtfDatMetaCli.exe"],
           "size": 528712,
           "sha256": "8B625D8FE8778ACD7319743EB989DE077D13BF67F02E437C13BA54CC64190267"
         },
         "1.0.1": {
           "plugin_api": 1,
           "min_app_version": "1.17.1.0",
-          "tier": "Pro",
-          "engines": ["CTF"],
-          "required_paths": ["AIMTCtfDatMetaCli.exe"],
           "size": 528713,
           "sha256": "AB314F190D03D7F1369C24B884D5E266051E9E16C01761F78F6B1473561121A7"
         }
@@ -32,12 +24,6 @@
         "1.0.0": {
           "plugin_api": 1,
           "min_app_version": "1.7.0",
-          "tier": "Common",
-          "engines": ["VXVXA"],
-          "required_paths": [
-            "Ruby4021/bin/ruby.exe",
-            "RPGMakerDecrypter-cli.exe"
-          ],
           "size": 27338158,
           "sha256": "9F4827897C89EDFD49AF9F14E4B53C5F0D928E1EB4D9A8B504B709FB8E37A66E"
         }
@@ -49,12 +35,6 @@
         "1.0.0": {
           "plugin_api": 1,
           "min_app_version": "1.17.1.0",
-          "tier": "Pro",
-          "engines": ["LiveMaker"],
-          "required_paths": [
-            "pylivemaker/bridge/aimt-livemaker-bridge.exe",
-            "FontMod/FontMod32.dll"
-          ],
           "size": 49143069,
           "sha256": "6F9AF4FB3DF26A3539E9DA152802CA35AC7F84734E3F1A29BBF4748F114921BC"
         }
@@ -66,13 +46,6 @@
         "1.0.0": {
           "plugin_api": 1,
           "min_app_version": "1.17.1.0",
-          "tier": "Pro",
-          "engines": ["Bakin"],
-          "required_paths": [
-            "BakinTranslate/BakinTranslate.CLI.exe",
-            "BakinTranslate/bakinplayer.exe",
-            "bakin-rbr-converter/bakin-rbr-converter.exe"
-          ],
           "size": 2092084,
           "sha256": "F254C1B3556E2B356C4AA8C1D4BD1B85341191893F52CCC7AEA0DAB175EF4A21"
         }
@@ -84,9 +57,6 @@
         "1.0.0": {
           "plugin_api": 1,
           "min_app_version": "1.17.1.0",
-          "tier": "Pro",
-          "engines": ["SRPGStudio"],
-          "required_paths": ["SRPG-ToolBox/SRPG_Unpacker.exe"],
           "size": 814146,
           "sha256": "862B4296AAD3986F68B79C23F1ABA9AC4D7E66C334EECDF2651E35F4F6194250"
         }
@@ -98,11 +68,6 @@
         "1.0.0": {
           "plugin_api": 1,
           "min_app_version": "1.7.0",
-          "tier": "Common",
-          "engines": ["MVMZ"],
-          "required_paths": [
-            "MVMZProjectConverter/MVMZProjectConverterCLI.exe"
-          ],
           "size": 197923,
           "sha256": "BDF299993F43418D259397B3347DC944C16F1999F8C1C7E5D960202AA1C3BC89"
         }
